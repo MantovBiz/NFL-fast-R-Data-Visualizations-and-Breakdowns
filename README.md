@@ -12,6 +12,4 @@ NFL teams schematically. Looking at personnel groupings, coverage tendencies, ef
 metrics, and situational splits. All analysis is reproducible from the source scripts.
 
 ## Data Source
-All data is sourced from the [nflverse](https://nflverse.nflverse.com) ecosystem using
-FTN participation tracking data. Data is loaded directly in the scripts via `nflreadr`
-and requires no manual downloads.
+All data is sourced from the [nflverse](https://nflverse.nflverse.com)
